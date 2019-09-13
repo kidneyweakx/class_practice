@@ -1,0 +1,4 @@
+Alice likes to read.
+Bob loves to eat.
+Charlie hates to exercise.
+Alice wants to play music.
